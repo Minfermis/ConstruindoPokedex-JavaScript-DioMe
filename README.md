@@ -1,17 +1,35 @@
-# Projeto Pokedex - Exemplo de Integração com a API PokeAPI
+# Projeto Pokedex - Exemplo de Integração com a API(PokeAPI)
 
-<div style="display: flex;">
-  <div style="flex: 1; max-width: 33.33%;">
-    <img src="assets\img\celular.png" alt="Imagem de um celular" style="max-width: 100%;">
-  </div>
-    <div style="flex: 1; max-width: 33.33%;">
-    <img src="assets\img\tablet.png" alt="Imagem de um tablet" style="max-width: 100%;">
-  </div>
-  <div style="flex: 1; max-width: 33.33%;">
-    <img src="assets\img\computador.png" alt="Imagem de um computador" style="max-width: 100%;">
-  </div>
 
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets\img\celular.png" alt="Imagem de um celular" width="125%">
+    </td>
+    <td align="center">
+      <img src="assets\img\tablet.png" alt="Imagem de um tablet" width="125%">
+    </td>
+    <td align="center">
+      <img src="assets\img\computador.png" alt="Imagem de um computador" width="125%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Celular</strong></td>
+    <td align="center"><strong>Tablet</strong></td>
+    <td align="center"><strong>Computador</strong></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
