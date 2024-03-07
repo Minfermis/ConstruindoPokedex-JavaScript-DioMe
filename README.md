@@ -4,13 +4,13 @@
 <table>
   <tr>
     <td align="center">
-      <img src="assets\img\celular.png" alt="Imagem de um celular" width="125%">
+      <img src="docs\assets\img\celular.png" alt="Imagem de um celular" width="125%">
     </td>
     <td align="center">
-      <img src="assets\img\tablet.png" alt="Imagem de um tablet" width="125%">
+      <img src="docs\assets\img\tablet.png" alt="Imagem de um tablet" width="125%">
     </td>
     <td align="center">
-      <img src="assets\img\computador.png" alt="Imagem de um computador" width="125%">
+      <img src="docs\assets\img\computador.png" alt="Imagem de um computador" width="125%">
     </td>
   </tr>
   <tr>
